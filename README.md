@@ -6,7 +6,7 @@ The purpose of this dellierable is to determine the number of retiring employees
 
 ## Results
 
--
+- There are 90,398 employees projected to retire in the near future. Of the 90,398 prjected retirements, they span across 7 position titles
 - There are 1549 employees eligable for the mentorship program.
 - 
 
